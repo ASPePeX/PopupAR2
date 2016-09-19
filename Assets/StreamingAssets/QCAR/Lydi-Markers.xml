@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="Marker-fullpage_stones_all" size="2.000000 1.526858" />
-    <ImageTarget name="Marker-fullpage_stones_right" size="1.000000 1.527687" />
-    <ImageTarget name="Marker-fullpage_stones_left" size="1.000000 1.525699" />
+    <ImageTarget name="Marker-fullpage_stones_right" size="1.000000 1.569353" />
+    <ImageTarget name="Marker-fullpage_stones_left" size="1.000000 1.567942" />
+    <ImageTarget name="Marker-fullpage_draw_right" size="1.000000 1.569560" />
+    <ImageTarget name="Marker-fullpage_draw_left" size="1.000000 1.567696" />
   </Tracking>
 </QCARConfig>
