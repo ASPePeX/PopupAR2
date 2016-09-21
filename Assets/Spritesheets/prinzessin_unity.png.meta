@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 289d1a693cbfd2648be284893645348e
-timeCreated: 1474482268
+timeCreated: 1474483942
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -44,7 +44,7 @@ TextureImporter:
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     linearTexture: 0
     correctGamma: 0
     fadeOut: 0
@@ -93,10 +93,10 @@ TextureImporter:
       name: prinzessin_unity_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 750
-        width: 204.8
-        height: 250
+        x: 3
+        y: 755
+        width: 192
+        height: 239
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -106,10 +106,10 @@ TextureImporter:
       name: prinzessin_unity_1
       rect:
         serializedVersion: 2
-        x: 204
-        y: 750
-        width: 204.8
-        height: 250
+        x: 208
+        y: 755
+        width: 192
+        height: 239
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -119,10 +119,10 @@ TextureImporter:
       name: prinzessin_unity_2
       rect:
         serializedVersion: 2
-        x: 408
-        y: 750
-        width: 204.8
-        height: 250
+        x: 412
+        y: 755
+        width: 192
+        height: 241
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -132,10 +132,10 @@ TextureImporter:
       name: prinzessin_unity_3
       rect:
         serializedVersion: 2
-        x: 612
-        y: 750
-        width: 204.8
-        height: 250
+        x: 617
+        y: 755
+        width: 192
+        height: 239
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -145,10 +145,10 @@ TextureImporter:
       name: prinzessin_unity_4
       rect:
         serializedVersion: 2
-        x: 816
-        y: 750
-        width: 204.8
-        height: 250
+        x: 822
+        y: 755
+        width: 192
+        height: 239
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -158,10 +158,10 @@ TextureImporter:
       name: prinzessin_unity_5
       rect:
         serializedVersion: 2
-        x: 1020
-        y: 750
-        width: 204.8
-        height: 250
+        x: 1027
+        y: 755
+        width: 192
+        height: 239
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -171,10 +171,10 @@ TextureImporter:
       name: prinzessin_unity_6
       rect:
         serializedVersion: 2
-        x: 1224
-        y: 750
-        width: 204.8
-        height: 250
+        x: 1232
+        y: 755
+        width: 192
+        height: 239
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -184,10 +184,10 @@ TextureImporter:
       name: prinzessin_unity_7
       rect:
         serializedVersion: 2
-        x: 1428
-        y: 750
-        width: 204.8
-        height: 250
+        x: 1436
+        y: 755
+        width: 192
+        height: 241
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -197,10 +197,10 @@ TextureImporter:
       name: prinzessin_unity_8
       rect:
         serializedVersion: 2
-        x: 1632
-        y: 750
-        width: 204.8
-        height: 250
+        x: 1641
+        y: 755
+        width: 192
+        height: 239
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -210,10 +210,10 @@ TextureImporter:
       name: prinzessin_unity_9
       rect:
         serializedVersion: 2
-        x: 1836
-        y: 750
-        width: 204.8
-        height: 250
+        x: 1846
+        y: 755
+        width: 192
+        height: 239
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -223,10 +223,10 @@ TextureImporter:
       name: prinzessin_unity_10
       rect:
         serializedVersion: 2
-        x: 0
-        y: 500
-        width: 204.8
-        height: 250
+        x: 3
+        y: 504
+        width: 193
+        height: 241
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -236,10 +236,10 @@ TextureImporter:
       name: prinzessin_unity_11
       rect:
         serializedVersion: 2
-        x: 204
-        y: 500
-        width: 204.8
-        height: 250
+        x: 208
+        y: 504
+        width: 192
+        height: 241
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -249,10 +249,10 @@ TextureImporter:
       name: prinzessin_unity_12
       rect:
         serializedVersion: 2
-        x: 408
-        y: 500
-        width: 204.8
-        height: 250
+        x: 412
+        y: 505
+        width: 192
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -262,10 +262,10 @@ TextureImporter:
       name: prinzessin_unity_13
       rect:
         serializedVersion: 2
-        x: 612
-        y: 500
-        width: 204.8
-        height: 250
+        x: 616
+        y: 504
+        width: 193
+        height: 241
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -275,10 +275,10 @@ TextureImporter:
       name: prinzessin_unity_14
       rect:
         serializedVersion: 2
-        x: 816
-        y: 500
-        width: 204.8
-        height: 250
+        x: 822
+        y: 505
+        width: 192
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -288,10 +288,10 @@ TextureImporter:
       name: prinzessin_unity_15
       rect:
         serializedVersion: 2
-        x: 1020
-        y: 500
-        width: 204.8
-        height: 250
+        x: 1027
+        y: 504
+        width: 193
+        height: 241
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -301,10 +301,10 @@ TextureImporter:
       name: prinzessin_unity_16
       rect:
         serializedVersion: 2
-        x: 1224
-        y: 500
-        width: 204.8
-        height: 250
+        x: 1232
+        y: 505
+        width: 192
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -314,10 +314,10 @@ TextureImporter:
       name: prinzessin_unity_17
       rect:
         serializedVersion: 2
-        x: 1428
-        y: 500
-        width: 204.8
-        height: 250
+        x: 1436
+        y: 505
+        width: 192
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -327,10 +327,10 @@ TextureImporter:
       name: prinzessin_unity_18
       rect:
         serializedVersion: 2
-        x: 1632
-        y: 500
-        width: 204.8
-        height: 250
+        x: 1640
+        y: 504
+        width: 193
+        height: 241
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -340,10 +340,10 @@ TextureImporter:
       name: prinzessin_unity_19
       rect:
         serializedVersion: 2
-        x: 1836
-        y: 500
-        width: 204.8
-        height: 250
+        x: 1846
+        y: 504
+        width: 192
+        height: 241
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -353,10 +353,10 @@ TextureImporter:
       name: prinzessin_unity_20
       rect:
         serializedVersion: 2
-        x: 0
-        y: 250
-        width: 204.8
-        height: 250
+        x: 3
+        y: 256
+        width: 192
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -366,10 +366,10 @@ TextureImporter:
       name: prinzessin_unity_21
       rect:
         serializedVersion: 2
-        x: 204
-        y: 250
-        width: 204.8
-        height: 250
+        x: 208
+        y: 256
+        width: 192
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -379,10 +379,10 @@ TextureImporter:
       name: prinzessin_unity_22
       rect:
         serializedVersion: 2
-        x: 408
-        y: 250
-        width: 204.8
-        height: 250
+        x: 412
+        y: 256
+        width: 192
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -392,10 +392,10 @@ TextureImporter:
       name: prinzessin_unity_23
       rect:
         serializedVersion: 2
-        x: 612
-        y: 250
-        width: 204.8
-        height: 250
+        x: 616
+        y: 256
+        width: 193
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -405,10 +405,10 @@ TextureImporter:
       name: prinzessin_unity_24
       rect:
         serializedVersion: 2
-        x: 816
-        y: 250
-        width: 204.8
-        height: 250
+        x: 822
+        y: 256
+        width: 194
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -418,10 +418,10 @@ TextureImporter:
       name: prinzessin_unity_25
       rect:
         serializedVersion: 2
-        x: 1020
-        y: 250
-        width: 204.8
-        height: 250
+        x: 1027
+        y: 256
+        width: 192
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -431,10 +431,10 @@ TextureImporter:
       name: prinzessin_unity_26
       rect:
         serializedVersion: 2
-        x: 1224
-        y: 250
-        width: 204.8
-        height: 250
+        x: 1232
+        y: 256
+        width: 192
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -444,10 +444,10 @@ TextureImporter:
       name: prinzessin_unity_27
       rect:
         serializedVersion: 2
-        x: 1428
-        y: 250
-        width: 204.8
-        height: 250
+        x: 1437
+        y: 256
+        width: 191
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -457,10 +457,10 @@ TextureImporter:
       name: prinzessin_unity_28
       rect:
         serializedVersion: 2
-        x: 1632
-        y: 250
-        width: 204.8
-        height: 250
+        x: 1640
+        y: 256
+        width: 193
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -470,10 +470,10 @@ TextureImporter:
       name: prinzessin_unity_29
       rect:
         serializedVersion: 2
-        x: 1836
-        y: 250
-        width: 204.8
-        height: 250
+        x: 1846
+        y: 256
+        width: 192
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -483,10 +483,10 @@ TextureImporter:
       name: prinzessin_unity_30
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 204.8
-        height: 250
+        x: 3
+        y: 6
+        width: 192
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -496,10 +496,10 @@ TextureImporter:
       name: prinzessin_unity_31
       rect:
         serializedVersion: 2
-        x: 204
-        y: 0
-        width: 204.8
-        height: 250
+        x: 208
+        y: 4
+        width: 192
+        height: 244
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -509,10 +509,10 @@ TextureImporter:
       name: prinzessin_unity_32
       rect:
         serializedVersion: 2
-        x: 408
-        y: 0
-        width: 204.8
-        height: 250
+        x: 412
+        y: 4
+        width: 192
+        height: 242
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -522,10 +522,10 @@ TextureImporter:
       name: prinzessin_unity_33
       rect:
         serializedVersion: 2
-        x: 612
-        y: 0
-        width: 204.8
-        height: 250
+        x: 617
+        y: 6
+        width: 192
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -535,10 +535,10 @@ TextureImporter:
       name: prinzessin_unity_34
       rect:
         serializedVersion: 2
-        x: 816
-        y: 0
-        width: 204.8
-        height: 250
+        x: 822
+        y: 4
+        width: 192
+        height: 242
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -548,10 +548,10 @@ TextureImporter:
       name: prinzessin_unity_35
       rect:
         serializedVersion: 2
-        x: 1020
-        y: 0
-        width: 204.8
-        height: 250
+        x: 1027
+        y: 6
+        width: 192
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -561,10 +561,10 @@ TextureImporter:
       name: prinzessin_unity_36
       rect:
         serializedVersion: 2
-        x: 1224
-        y: 0
-        width: 204.8
-        height: 250
+        x: 1232
+        y: 4
+        width: 192
+        height: 244
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
