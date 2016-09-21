@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 2020a06515519f74da4d9ddb41c38577
+timeCreated: 1474482620
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spiegel_unity_0
+    21300002: spiegel_unity_1
+    21300004: spiegel_unity_2
+    21300006: spiegel_unity_3
+    21300008: spiegel_unity_4
+    21300010: spiegel_unity_5
+    21300012: spiegel_unity_6
+    21300014: spiegel_unity_7
+    21300016: spiegel_unity_8
+    21300018: spiegel_unity_9
+    21300020: spiegel_unity_10
+    21300022: spiegel_unity_11
+    21300024: spiegel_unity_12
+    21300026: spiegel_unity_13
+    21300028: spiegel_unity_14
+    21300030: spiegel_unity_15
+    21300032: spiegel_unity_16
+    21300034: spiegel_unity_17
+    21300036: spiegel_unity_18
+    21300038: spiegel_unity_19
+    21300040: spiegel_unity_20
+    21300042: spiegel_unity_21
+    21300044: spiegel_unity_22
+    21300046: spiegel_unity_23
+    21300048: spiegel_unity_24
+    21300050: spiegel_unity_25
+    21300052: spiegel_unity_26
+    21300054: spiegel_unity_27
+    21300056: spiegel_unity_28
+    21300058: spiegel_unity_29
+    21300060: spiegel_unity_30
+    21300062: spiegel_unity_31
+    21300064: spiegel_unity_32
+    21300066: spiegel_unity_33
+    21300068: spiegel_unity_34
+    21300070: spiegel_unity_35
+    21300072: spiegel_unity_36
+    21300074: spiegel_unity_37
+    21300076: spiegel_unity_38
+    21300078: spiegel_unity_39
+    21300080: spiegel_unity_40
+    21300082: spiegel_unity_41
+    21300084: spiegel_unity_42
+    21300086: spiegel_unity_43
+    21300088: spiegel_unity_44
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1000
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spiegel_unity_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1046.4
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_1
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1046.4
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_2
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1046.4
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_3
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1046.4
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_4
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1046.4
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_5
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1046.4
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_6
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1046.4
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_7
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1046.4
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_8
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1046.4
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 785.4
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_10
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 785.4
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_11
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 785.4
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_12
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 785.4
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_13
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 785.4
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_14
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 785.4
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_15
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 785.4
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_16
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 785.4
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_17
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 785.4
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 524.4
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_19
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 524.4
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_20
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 524.4
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_21
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 524.4
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_22
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 524.4
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_23
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 524.4
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_24
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 524.4
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_25
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 524.4
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_26
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 524.4
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 263.4
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_28
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 263.4
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_29
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 263.4
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_30
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 263.4
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_31
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 263.4
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_32
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 263.4
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_33
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 263.4
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_34
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 263.4
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_35
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 263.4
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.399994
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_37
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 2.399994
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_38
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 2.399994
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_39
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 2.399994
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_40
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 2.399994
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_41
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 2.399994
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_42
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 2.399994
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_43
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 2.399994
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spiegel_unity_44
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 2.399994
+        width: 227.55556
+        height: 261.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

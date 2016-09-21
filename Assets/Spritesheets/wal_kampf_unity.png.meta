@@ -1,0 +1,549 @@
+fileFormatVersion: 2
+guid: e61553e842dabc340a6243f320923ab4
+timeCreated: 1474482827
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: wal_kampf_unity_0
+    21300002: wal_kampf_unity_1
+    21300004: wal_kampf_unity_2
+    21300006: wal_kampf_unity_3
+    21300008: wal_kampf_unity_4
+    21300010: wal_kampf_unity_5
+    21300012: wal_kampf_unity_6
+    21300014: wal_kampf_unity_7
+    21300016: wal_kampf_unity_8
+    21300018: wal_kampf_unity_9
+    21300020: wal_kampf_unity_10
+    21300022: wal_kampf_unity_11
+    21300024: wal_kampf_unity_12
+    21300026: wal_kampf_unity_13
+    21300028: wal_kampf_unity_14
+    21300030: wal_kampf_unity_15
+    21300032: wal_kampf_unity_16
+    21300034: wal_kampf_unity_17
+    21300036: wal_kampf_unity_18
+    21300038: wal_kampf_unity_19
+    21300040: wal_kampf_unity_20
+    21300042: wal_kampf_unity_21
+    21300044: wal_kampf_unity_22
+    21300046: wal_kampf_unity_23
+    21300048: wal_kampf_unity_24
+    21300050: wal_kampf_unity_25
+    21300052: wal_kampf_unity_26
+    21300054: wal_kampf_unity_27
+    21300056: wal_kampf_unity_28
+    21300058: wal_kampf_unity_29
+    21300060: wal_kampf_unity_30
+    21300062: wal_kampf_unity_31
+    21300064: wal_kampf_unity_32
+    21300066: wal_kampf_unity_33
+    21300068: wal_kampf_unity_34
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1000
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wal_kampf_unity_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1230.8572
+        width: 409.6
+        height: 205.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wal_kampf_unity_1
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1230.8572
+        width: 409.6
+        height: 205.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wal_kampf_unity_2
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1230.8572
+        width: 409.6
+        height: 205.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wal_kampf_unity_3
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 1230.8572
+        width: 409.6
+        height: 205.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wal_kampf_unity_4
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1230.8572
+        width: 409.6
+        height: 205.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wal_kampf_unity_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1025.8572
+        width: 409.6
+        height: 205.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wal_kampf_unity_6
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1025.8572
+        width: 409.6
+        height: 205.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wal_kampf_unity_7
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1025.8572
+        width: 409.6
+        height: 205.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wal_kampf_unity_8
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 1025.8572
+        width: 409.6
+        height: 205.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wal_kampf_unity_9
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1025.8572
+        width: 409.6
+        height: 205.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wal_kampf_unity_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 820.8572
+        width: 409.6
+        height: 205.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wal_kampf_unity_11
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 820.8572
+        width: 409.6
+        height: 205.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wal_kampf_unity_12
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 820.8572
+        width: 409.6
+        height: 205.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wal_kampf_unity_13
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 820.8572
+        width: 409.6
+        height: 205.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wal_kampf_unity_14
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 820.8572
+        width: 409.6
+        height: 205.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wal_kampf_unity_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 615.8572
+        width: 409.6
+        height: 205.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wal_kampf_unity_16
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 615.8572
+        width: 409.6
+        height: 205.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wal_kampf_unity_17
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 615.8572
+        width: 409.6
+        height: 205.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wal_kampf_unity_18
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 615.8572
+        width: 409.6
+        height: 205.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wal_kampf_unity_19
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 615.8572
+        width: 409.6
+        height: 205.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wal_kampf_unity_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410.85715
+        width: 409.6
+        height: 205.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wal_kampf_unity_21
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 410.85715
+        width: 409.6
+        height: 205.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wal_kampf_unity_22
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 410.85715
+        width: 409.6
+        height: 205.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wal_kampf_unity_23
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 410.85715
+        width: 409.6
+        height: 205.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wal_kampf_unity_24
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 410.85715
+        width: 409.6
+        height: 205.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wal_kampf_unity_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 205.85715
+        width: 409.6
+        height: 205.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wal_kampf_unity_26
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 205.85715
+        width: 409.6
+        height: 205.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wal_kampf_unity_27
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 205.85715
+        width: 409.6
+        height: 205.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wal_kampf_unity_28
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 205.85715
+        width: 409.6
+        height: 205.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wal_kampf_unity_29
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 205.85715
+        width: 409.6
+        height: 205.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wal_kampf_unity_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.8571472
+        width: 409.6
+        height: 205.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wal_kampf_unity_31
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 0.8571472
+        width: 409.6
+        height: 205.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wal_kampf_unity_32
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 0.8571472
+        width: 409.6
+        height: 205.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wal_kampf_unity_33
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 0.8571472
+        width: 409.6
+        height: 205.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wal_kampf_unity_34
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 0.8571472
+        width: 409.6
+        height: 205.14285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

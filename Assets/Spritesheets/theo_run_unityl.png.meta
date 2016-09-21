@@ -1,0 +1,577 @@
+fileFormatVersion: 2
+guid: 2982820cfe25d9841a715fb8416b7b1a
+timeCreated: 1474482760
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: theo_run_unityl_0
+    21300002: theo_run_unityl_1
+    21300004: theo_run_unityl_2
+    21300006: theo_run_unityl_3
+    21300008: theo_run_unityl_4
+    21300010: theo_run_unityl_5
+    21300012: theo_run_unityl_6
+    21300014: theo_run_unityl_7
+    21300016: theo_run_unityl_8
+    21300018: theo_run_unityl_9
+    21300020: theo_run_unityl_10
+    21300022: theo_run_unityl_11
+    21300024: theo_run_unityl_12
+    21300026: theo_run_unityl_13
+    21300028: theo_run_unityl_14
+    21300030: theo_run_unityl_15
+    21300032: theo_run_unityl_16
+    21300034: theo_run_unityl_17
+    21300036: theo_run_unityl_18
+    21300038: theo_run_unityl_19
+    21300040: theo_run_unityl_20
+    21300042: theo_run_unityl_21
+    21300044: theo_run_unityl_22
+    21300046: theo_run_unityl_23
+    21300048: theo_run_unityl_24
+    21300050: theo_run_unityl_25
+    21300052: theo_run_unityl_26
+    21300054: theo_run_unityl_27
+    21300056: theo_run_unityl_28
+    21300058: theo_run_unityl_29
+    21300060: theo_run_unityl_30
+    21300062: theo_run_unityl_31
+    21300064: theo_run_unityl_32
+    21300066: theo_run_unityl_33
+    21300068: theo_run_unityl_34
+    21300070: theo_run_unityl_35
+    21300072: theo_run_unityl_36
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1000
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: theo_run_unityl_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1470
+        width: 292.57144
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theo_run_unityl_1
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1470
+        width: 292.57144
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theo_run_unityl_2
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1470
+        width: 292.57144
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theo_run_unityl_3
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1470
+        width: 292.57144
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theo_run_unityl_4
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1470
+        width: 292.57144
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theo_run_unityl_5
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1470
+        width: 292.57144
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theo_run_unityl_6
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1470
+        width: 292.57144
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theo_run_unityl_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1176
+        width: 292.57144
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theo_run_unityl_8
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1176
+        width: 292.57144
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theo_run_unityl_9
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1176
+        width: 292.57144
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theo_run_unityl_10
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1176
+        width: 292.57144
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theo_run_unityl_11
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1176
+        width: 292.57144
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theo_run_unityl_12
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1176
+        width: 292.57144
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theo_run_unityl_13
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1176
+        width: 292.57144
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theo_run_unityl_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 882
+        width: 292.57144
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theo_run_unityl_15
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 882
+        width: 292.57144
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theo_run_unityl_16
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 882
+        width: 292.57144
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theo_run_unityl_17
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 882
+        width: 292.57144
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theo_run_unityl_18
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 882
+        width: 292.57144
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theo_run_unityl_19
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 882
+        width: 292.57144
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theo_run_unityl_20
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 882
+        width: 292.57144
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theo_run_unityl_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 588
+        width: 292.57144
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theo_run_unityl_22
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 588
+        width: 292.57144
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theo_run_unityl_23
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 588
+        width: 292.57144
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theo_run_unityl_24
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 588
+        width: 292.57144
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theo_run_unityl_25
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 588
+        width: 292.57144
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theo_run_unityl_26
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 588
+        width: 292.57144
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theo_run_unityl_27
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 588
+        width: 292.57144
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theo_run_unityl_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 292.57144
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theo_run_unityl_29
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 294
+        width: 292.57144
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theo_run_unityl_30
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 294
+        width: 292.57144
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theo_run_unityl_31
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 294
+        width: 292.57144
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theo_run_unityl_32
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 294
+        width: 292.57144
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theo_run_unityl_33
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 294
+        width: 292.57144
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theo_run_unityl_34
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 294
+        width: 292.57144
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theo_run_unityl_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 292.57144
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theo_run_unityl_36
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 292.57144
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
