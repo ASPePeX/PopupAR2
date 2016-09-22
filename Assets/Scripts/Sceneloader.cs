@@ -13,12 +13,15 @@ public class Sceneloader : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-        scenes = new string[4];
+        scenes = new string[7];
 
         scenes[0] = "1";
         scenes[1] = "2";
         scenes[2] = "3";
         scenes[3] = "4";
+        scenes[4] = "5";
+        scenes[5] = "6";
+        scenes[6] = "7";
 
         SceneManager.LoadScene("1");
     }
