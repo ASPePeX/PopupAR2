@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: b62477043ccad0e4c9ba0ba6998bcf03
-timeCreated: 1474482881
+timeCreated: 1474800204
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -48,6 +48,26 @@ TextureImporter:
     21300082: wal_unity_41
     21300084: wal_unity_42
     21300086: wal_unity_43
+    21300088: wal_0
+    21300090: wal_1
+    21300092: wal_2
+    21300094: wal_3
+    21300096: wal_4
+    21300098: wal_5
+    21300100: wal_6
+    21300102: wal_7
+    21300104: wal_8
+    21300106: wal_9
+    21300108: wal_10
+    21300110: wal_11
+    21300112: wal_12
+    21300114: wal_13
+    21300116: wal_14
+    21300118: wal_15
+    21300120: wal_16
+    21300122: wal_17
+    21300124: wal_18
+    21300126: wal_19
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -97,572 +117,260 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: wal_unity_0
+      name: wal_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 1550.2222
-        width: 409.6
-        height: 193.77777
+        y: 1020.8
+        width: 512
+        height: 255.2
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: wal_unity_1
+      name: wal_1
       rect:
         serializedVersion: 2
-        x: 409
-        y: 1550.2222
-        width: 409.6
-        height: 193.77777
+        x: 512
+        y: 1020.8
+        width: 512
+        height: 255.2
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: wal_unity_2
+      name: wal_2
       rect:
         serializedVersion: 2
-        x: 818
-        y: 1550.2222
-        width: 409.6
-        height: 193.77777
+        x: 1024
+        y: 1020.8
+        width: 512
+        height: 255.2
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: wal_unity_3
+      name: wal_3
       rect:
         serializedVersion: 2
-        x: 1227
-        y: 1550.2222
-        width: 409.6
-        height: 193.77777
+        x: 1536
+        y: 1020.8
+        width: 512
+        height: 255.2
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: wal_unity_4
-      rect:
-        serializedVersion: 2
-        x: 1636
-        y: 1550.2222
-        width: 409.6
-        height: 193.77777
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: wal_unity_5
+      name: wal_4
       rect:
         serializedVersion: 2
         x: 0
-        y: 1357.2222
-        width: 409.6
-        height: 193.77777
+        y: 765.8
+        width: 512
+        height: 255.2
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: wal_unity_6
+      name: wal_5
       rect:
         serializedVersion: 2
-        x: 409
-        y: 1357.2222
-        width: 409.6
-        height: 193.77777
+        x: 512
+        y: 765.8
+        width: 512
+        height: 255.2
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: wal_unity_7
+      name: wal_6
       rect:
         serializedVersion: 2
-        x: 818
-        y: 1357.2222
-        width: 409.6
-        height: 193.77777
+        x: 1024
+        y: 765.8
+        width: 512
+        height: 255.2
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: wal_unity_8
+      name: wal_7
       rect:
         serializedVersion: 2
-        x: 1227
-        y: 1357.2222
-        width: 409.6
-        height: 193.77777
+        x: 1536
+        y: 765.8
+        width: 512
+        height: 255.2
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: wal_unity_9
-      rect:
-        serializedVersion: 2
-        x: 1636
-        y: 1357.2222
-        width: 409.6
-        height: 193.77777
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: wal_unity_10
+      name: wal_8
       rect:
         serializedVersion: 2
         x: 0
-        y: 1164.2222
-        width: 409.6
-        height: 193.77777
+        y: 510.8
+        width: 512
+        height: 255.2
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: wal_unity_11
+      name: wal_9
       rect:
         serializedVersion: 2
-        x: 409
-        y: 1164.2222
-        width: 409.6
-        height: 193.77777
+        x: 512
+        y: 510.8
+        width: 512
+        height: 255.2
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: wal_unity_12
+      name: wal_10
       rect:
         serializedVersion: 2
-        x: 818
-        y: 1164.2222
-        width: 409.6
-        height: 193.77777
+        x: 1024
+        y: 510.8
+        width: 512
+        height: 255.2
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: wal_unity_13
+      name: wal_11
       rect:
         serializedVersion: 2
-        x: 1227
-        y: 1164.2222
-        width: 409.6
-        height: 193.77777
+        x: 1536
+        y: 510.8
+        width: 512
+        height: 255.2
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: wal_unity_14
-      rect:
-        serializedVersion: 2
-        x: 1636
-        y: 1164.2222
-        width: 409.6
-        height: 193.77777
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: wal_unity_15
+      name: wal_12
       rect:
         serializedVersion: 2
         x: 0
-        y: 971.2222
-        width: 409.6
-        height: 193.77777
+        y: 255.8
+        width: 512
+        height: 255.2
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: wal_unity_16
+      name: wal_13
       rect:
         serializedVersion: 2
-        x: 409
-        y: 971.2222
-        width: 409.6
-        height: 193.77777
+        x: 512
+        y: 255.8
+        width: 512
+        height: 255.2
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: wal_unity_17
+      name: wal_14
       rect:
         serializedVersion: 2
-        x: 818
-        y: 971.2222
-        width: 409.6
-        height: 193.77777
+        x: 1024
+        y: 255.8
+        width: 512
+        height: 255.2
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: wal_unity_18
+      name: wal_15
       rect:
         serializedVersion: 2
-        x: 1227
-        y: 971.2222
-        width: 409.6
-        height: 193.77777
+        x: 1536
+        y: 255.8
+        width: 512
+        height: 255.2
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: wal_unity_19
-      rect:
-        serializedVersion: 2
-        x: 1636
-        y: 971.2222
-        width: 409.6
-        height: 193.77777
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: wal_unity_20
+      name: wal_16
       rect:
         serializedVersion: 2
         x: 0
-        y: 778.2222
-        width: 409.6
-        height: 193.77777
+        y: 0.80000305
+        width: 512
+        height: 255.2
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: wal_unity_21
+      name: wal_17
       rect:
         serializedVersion: 2
-        x: 409
-        y: 778.2222
-        width: 409.6
-        height: 193.77777
+        x: 512
+        y: 0.80000305
+        width: 512
+        height: 255.2
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: wal_unity_22
+      name: wal_18
       rect:
         serializedVersion: 2
-        x: 818
-        y: 778.2222
-        width: 409.6
-        height: 193.77777
+        x: 1024
+        y: 0.80000305
+        width: 512
+        height: 255.2
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: wal_unity_23
+      name: wal_19
       rect:
         serializedVersion: 2
-        x: 1227
-        y: 778.2222
-        width: 409.6
-        height: 193.77777
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: wal_unity_24
-      rect:
-        serializedVersion: 2
-        x: 1636
-        y: 778.2222
-        width: 409.6
-        height: 193.77777
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: wal_unity_25
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 585.2222
-        width: 409.6
-        height: 193.77777
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: wal_unity_26
-      rect:
-        serializedVersion: 2
-        x: 409
-        y: 585.2222
-        width: 409.6
-        height: 193.77777
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: wal_unity_27
-      rect:
-        serializedVersion: 2
-        x: 818
-        y: 585.2222
-        width: 409.6
-        height: 193.77777
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: wal_unity_28
-      rect:
-        serializedVersion: 2
-        x: 1227
-        y: 585.2222
-        width: 409.6
-        height: 193.77777
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: wal_unity_29
-      rect:
-        serializedVersion: 2
-        x: 1636
-        y: 585.2222
-        width: 409.6
-        height: 193.77777
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: wal_unity_30
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 392.22223
-        width: 409.6
-        height: 193.77777
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: wal_unity_31
-      rect:
-        serializedVersion: 2
-        x: 409
-        y: 392.22223
-        width: 409.6
-        height: 193.77777
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: wal_unity_32
-      rect:
-        serializedVersion: 2
-        x: 818
-        y: 392.22223
-        width: 409.6
-        height: 193.77777
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: wal_unity_33
-      rect:
-        serializedVersion: 2
-        x: 1227
-        y: 392.22223
-        width: 409.6
-        height: 193.77777
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: wal_unity_34
-      rect:
-        serializedVersion: 2
-        x: 1636
-        y: 392.22223
-        width: 409.6
-        height: 193.77777
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: wal_unity_35
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 199.22223
-        width: 409.6
-        height: 193.77777
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: wal_unity_36
-      rect:
-        serializedVersion: 2
-        x: 409
-        y: 199.22223
-        width: 409.6
-        height: 193.77777
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: wal_unity_37
-      rect:
-        serializedVersion: 2
-        x: 818
-        y: 199.22223
-        width: 409.6
-        height: 193.77777
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: wal_unity_38
-      rect:
-        serializedVersion: 2
-        x: 1227
-        y: 199.22223
-        width: 409.6
-        height: 193.77777
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: wal_unity_39
-      rect:
-        serializedVersion: 2
-        x: 1636
-        y: 199.22223
-        width: 409.6
-        height: 193.77777
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: wal_unity_40
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 6.222229
-        width: 409.6
-        height: 193.77777
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: wal_unity_41
-      rect:
-        serializedVersion: 2
-        x: 409
-        y: 6.222229
-        width: 409.6
-        height: 193.77777
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: wal_unity_42
-      rect:
-        serializedVersion: 2
-        x: 818
-        y: 6.222229
-        width: 409.6
-        height: 193.77777
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: wal_unity_43
-      rect:
-        serializedVersion: 2
-        x: 1227
-        y: 6.222229
-        width: 409.6
-        height: 193.77777
+        x: 1536
+        y: 0.80000305
+        width: 512
+        height: 255.2
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

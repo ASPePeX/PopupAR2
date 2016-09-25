@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: ad2be9c7e2ed4bc4ca31d531a8f37780
-timeCreated: 1474482699
+timeCreated: 1474800143
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -47,6 +47,30 @@ TextureImporter:
     21300080: theo_fight_unity_40
     21300082: theo_fight_unity_41
     21300084: theo_fight_unity_42
+    21300086: theo_fight_0
+    21300088: theo_fight_1
+    21300090: theo_fight_2
+    21300092: theo_fight_3
+    21300094: theo_fight_4
+    21300096: theo_fight_5
+    21300098: theo_fight_6
+    21300100: theo_fight_7
+    21300102: theo_fight_8
+    21300104: theo_fight_9
+    21300106: theo_fight_10
+    21300108: theo_fight_11
+    21300110: theo_fight_12
+    21300112: theo_fight_13
+    21300114: theo_fight_14
+    21300116: theo_fight_15
+    21300118: theo_fight_16
+    21300120: theo_fight_17
+    21300122: theo_fight_18
+    21300124: theo_fight_19
+    21300126: theo_fight_20
+    21300128: theo_fight_21
+    21300130: theo_fight_22
+    21300132: theo_fight_23
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -96,559 +120,312 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: theo_fight_unity_0
+      name: theo_fight_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 755.2
-        width: 227.55556
-        height: 188.8
+        y: 424
+        width: 256
+        height: 212
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: theo_fight_unity_1
+      name: theo_fight_1
       rect:
         serializedVersion: 2
-        x: 227
-        y: 755.2
-        width: 227.55556
-        height: 188.8
+        x: 256
+        y: 424
+        width: 256
+        height: 212
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: theo_fight_unity_2
+      name: theo_fight_2
       rect:
         serializedVersion: 2
-        x: 454
-        y: 755.2
-        width: 227.55556
-        height: 188.8
+        x: 512
+        y: 424
+        width: 256
+        height: 212
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: theo_fight_unity_3
+      name: theo_fight_3
       rect:
         serializedVersion: 2
-        x: 681
-        y: 755.2
-        width: 227.55556
-        height: 188.8
+        x: 768
+        y: 424
+        width: 256
+        height: 212
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: theo_fight_unity_4
+      name: theo_fight_4
       rect:
         serializedVersion: 2
-        x: 908
-        y: 755.2
-        width: 227.55556
-        height: 188.8
+        x: 1024
+        y: 424
+        width: 256
+        height: 212
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: theo_fight_unity_5
+      name: theo_fight_5
       rect:
         serializedVersion: 2
-        x: 1135
-        y: 755.2
-        width: 227.55556
-        height: 188.8
+        x: 1280
+        y: 424
+        width: 256
+        height: 212
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: theo_fight_unity_6
+      name: theo_fight_6
       rect:
         serializedVersion: 2
-        x: 1362
-        y: 755.2
-        width: 227.55556
-        height: 188.8
+        x: 1536
+        y: 424
+        width: 256
+        height: 212
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: theo_fight_unity_7
+      name: theo_fight_7
       rect:
         serializedVersion: 2
-        x: 1589
-        y: 755.2
-        width: 227.55556
-        height: 188.8
+        x: 1792
+        y: 424
+        width: 256
+        height: 212
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: theo_fight_unity_8
-      rect:
-        serializedVersion: 2
-        x: 1816
-        y: 755.2
-        width: 227.55556
-        height: 188.8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: theo_fight_unity_9
+      name: theo_fight_8
       rect:
         serializedVersion: 2
         x: 0
-        y: 567.2
-        width: 227.55556
-        height: 188.8
+        y: 212
+        width: 256
+        height: 212
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: theo_fight_unity_10
+      name: theo_fight_9
       rect:
         serializedVersion: 2
-        x: 227
-        y: 567.2
-        width: 227.55556
-        height: 188.8
+        x: 256
+        y: 212
+        width: 256
+        height: 212
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: theo_fight_unity_11
+      name: theo_fight_10
       rect:
         serializedVersion: 2
-        x: 454
-        y: 567.2
-        width: 227.55556
-        height: 188.8
+        x: 512
+        y: 212
+        width: 256
+        height: 212
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: theo_fight_unity_12
+      name: theo_fight_11
       rect:
         serializedVersion: 2
-        x: 681
-        y: 567.2
-        width: 227.55556
-        height: 188.8
+        x: 768
+        y: 212
+        width: 256
+        height: 212
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: theo_fight_unity_13
+      name: theo_fight_12
       rect:
         serializedVersion: 2
-        x: 908
-        y: 567.2
-        width: 227.55556
-        height: 188.8
+        x: 1024
+        y: 212
+        width: 256
+        height: 212
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: theo_fight_unity_14
+      name: theo_fight_13
       rect:
         serializedVersion: 2
-        x: 1135
-        y: 567.2
-        width: 227.55556
-        height: 188.8
+        x: 1280
+        y: 212
+        width: 256
+        height: 212
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: theo_fight_unity_15
+      name: theo_fight_14
       rect:
         serializedVersion: 2
-        x: 1362
-        y: 567.2
-        width: 227.55556
-        height: 188.8
+        x: 1536
+        y: 212
+        width: 256
+        height: 212
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: theo_fight_unity_16
+      name: theo_fight_15
       rect:
         serializedVersion: 2
-        x: 1589
-        y: 567.2
-        width: 227.55556
-        height: 188.8
+        x: 1792
+        y: 212
+        width: 256
+        height: 212
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: theo_fight_unity_17
-      rect:
-        serializedVersion: 2
-        x: 1816
-        y: 567.2
-        width: 227.55556
-        height: 188.8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: theo_fight_unity_18
+      name: theo_fight_16
       rect:
         serializedVersion: 2
         x: 0
-        y: 379.2
-        width: 227.55556
-        height: 188.8
+        y: 0
+        width: 256
+        height: 212
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: theo_fight_unity_19
+      name: theo_fight_17
       rect:
         serializedVersion: 2
-        x: 227
-        y: 379.2
-        width: 227.55556
-        height: 188.8
+        x: 256
+        y: 0
+        width: 256
+        height: 212
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: theo_fight_unity_20
+      name: theo_fight_18
       rect:
         serializedVersion: 2
-        x: 454
-        y: 379.2
-        width: 227.55556
-        height: 188.8
+        x: 512
+        y: 0
+        width: 256
+        height: 212
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: theo_fight_unity_21
+      name: theo_fight_19
       rect:
         serializedVersion: 2
-        x: 681
-        y: 379.2
-        width: 227.55556
-        height: 188.8
+        x: 768
+        y: 0
+        width: 256
+        height: 212
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: theo_fight_unity_22
+      name: theo_fight_20
       rect:
         serializedVersion: 2
-        x: 908
-        y: 379.2
-        width: 227.55556
-        height: 188.8
+        x: 1024
+        y: 0
+        width: 256
+        height: 212
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: theo_fight_unity_23
+      name: theo_fight_21
       rect:
         serializedVersion: 2
-        x: 1135
-        y: 379.2
-        width: 227.55556
-        height: 188.8
+        x: 1280
+        y: 0
+        width: 256
+        height: 212
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: theo_fight_unity_24
+      name: theo_fight_22
       rect:
         serializedVersion: 2
-        x: 1362
-        y: 379.2
-        width: 227.55556
-        height: 188.8
+        x: 1536
+        y: 0
+        width: 256
+        height: 212
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: theo_fight_unity_25
+      name: theo_fight_23
       rect:
         serializedVersion: 2
-        x: 1589
-        y: 379.2
-        width: 227.55556
-        height: 188.8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: theo_fight_unity_26
-      rect:
-        serializedVersion: 2
-        x: 1816
-        y: 379.2
-        width: 227.55556
-        height: 188.8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: theo_fight_unity_27
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 191.2
-        width: 227.55556
-        height: 188.8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: theo_fight_unity_28
-      rect:
-        serializedVersion: 2
-        x: 227
-        y: 191.2
-        width: 227.55556
-        height: 188.8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: theo_fight_unity_29
-      rect:
-        serializedVersion: 2
-        x: 454
-        y: 191.2
-        width: 227.55556
-        height: 188.8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: theo_fight_unity_30
-      rect:
-        serializedVersion: 2
-        x: 681
-        y: 191.2
-        width: 227.55556
-        height: 188.8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: theo_fight_unity_31
-      rect:
-        serializedVersion: 2
-        x: 908
-        y: 191.2
-        width: 227.55556
-        height: 188.8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: theo_fight_unity_32
-      rect:
-        serializedVersion: 2
-        x: 1135
-        y: 191.2
-        width: 227.55556
-        height: 188.8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: theo_fight_unity_33
-      rect:
-        serializedVersion: 2
-        x: 1362
-        y: 191.2
-        width: 227.55556
-        height: 188.8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: theo_fight_unity_34
-      rect:
-        serializedVersion: 2
-        x: 1589
-        y: 191.2
-        width: 227.55556
-        height: 188.8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: theo_fight_unity_35
-      rect:
-        serializedVersion: 2
-        x: 1816
-        y: 191.2
-        width: 227.55556
-        height: 188.8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: theo_fight_unity_36
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 3.199997
-        width: 227.55556
-        height: 188.8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: theo_fight_unity_37
-      rect:
-        serializedVersion: 2
-        x: 227
-        y: 3.199997
-        width: 227.55556
-        height: 188.8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: theo_fight_unity_38
-      rect:
-        serializedVersion: 2
-        x: 454
-        y: 3.199997
-        width: 227.55556
-        height: 188.8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: theo_fight_unity_39
-      rect:
-        serializedVersion: 2
-        x: 681
-        y: 3.199997
-        width: 227.55556
-        height: 188.8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: theo_fight_unity_40
-      rect:
-        serializedVersion: 2
-        x: 908
-        y: 3.199997
-        width: 227.55556
-        height: 188.8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: theo_fight_unity_41
-      rect:
-        serializedVersion: 2
-        x: 1135
-        y: 3.199997
-        width: 227.55556
-        height: 188.8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: theo_fight_unity_42
-      rect:
-        serializedVersion: 2
-        x: 1362
-        y: 3.199997
-        width: 227.55556
-        height: 188.8
+        x: 1792
+        y: 0
+        width: 256
+        height: 212
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

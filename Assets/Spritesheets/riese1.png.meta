@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 3a7c5ff2e4cbbd54792ac9c0a92e96e8
-timeCreated: 1474482299
+timeCreated: 1474800386
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -41,6 +41,22 @@ TextureImporter:
     21300068: riese1_unity_34
     21300070: riese1_unity_35
     21300072: riese1_unity_36
+    21300074: riese1_0
+    21300076: riese1_1
+    21300078: riese1_2
+    21300080: riese1_3
+    21300082: riese1_4
+    21300084: riese1_5
+    21300086: riese1_6
+    21300088: riese1_7
+    21300090: riese1_8
+    21300092: riese1_9
+    21300094: riese1_10
+    21300096: riese1_11
+    21300098: riese1_12
+    21300100: riese1_13
+    21300102: riese1_14
+    21300104: riese1_15
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -90,481 +106,208 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: riese1_unity_0
+      name: riese1_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 1044
-        width: 204.8
-        height: 348
+        y: 434
+        width: 256
+        height: 434
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: riese1_unity_1
+      name: riese1_1
       rect:
         serializedVersion: 2
-        x: 204
-        y: 1044
-        width: 204.8
-        height: 348
+        x: 256
+        y: 434
+        width: 256
+        height: 434
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: riese1_unity_2
+      name: riese1_2
       rect:
         serializedVersion: 2
-        x: 408
-        y: 1044
-        width: 204.8
-        height: 348
+        x: 512
+        y: 434
+        width: 256
+        height: 434
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: riese1_unity_3
+      name: riese1_3
       rect:
         serializedVersion: 2
-        x: 612
-        y: 1044
-        width: 204.8
-        height: 348
+        x: 768
+        y: 434
+        width: 256
+        height: 434
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: riese1_unity_4
+      name: riese1_4
       rect:
         serializedVersion: 2
-        x: 816
-        y: 1044
-        width: 204.8
-        height: 348
+        x: 1024
+        y: 434
+        width: 256
+        height: 434
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: riese1_unity_5
+      name: riese1_5
       rect:
         serializedVersion: 2
-        x: 1020
-        y: 1044
-        width: 204.8
-        height: 348
+        x: 1280
+        y: 434
+        width: 256
+        height: 434
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: riese1_unity_6
+      name: riese1_6
       rect:
         serializedVersion: 2
-        x: 1224
-        y: 1044
-        width: 204.8
-        height: 348
+        x: 1536
+        y: 434
+        width: 256
+        height: 434
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: riese1_unity_7
+      name: riese1_7
       rect:
         serializedVersion: 2
-        x: 1428
-        y: 1044
-        width: 204.8
-        height: 348
+        x: 1792
+        y: 434
+        width: 256
+        height: 434
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: riese1_unity_8
-      rect:
-        serializedVersion: 2
-        x: 1632
-        y: 1044
-        width: 204.8
-        height: 348
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: riese1_unity_9
-      rect:
-        serializedVersion: 2
-        x: 1836
-        y: 1044
-        width: 204.8
-        height: 348
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: riese1_unity_10
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 696
-        width: 204.8
-        height: 348
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: riese1_unity_11
-      rect:
-        serializedVersion: 2
-        x: 204
-        y: 696
-        width: 204.8
-        height: 348
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: riese1_unity_12
-      rect:
-        serializedVersion: 2
-        x: 408
-        y: 696
-        width: 204.8
-        height: 348
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: riese1_unity_13
-      rect:
-        serializedVersion: 2
-        x: 612
-        y: 696
-        width: 204.8
-        height: 348
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: riese1_unity_14
-      rect:
-        serializedVersion: 2
-        x: 816
-        y: 696
-        width: 204.8
-        height: 348
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: riese1_unity_15
-      rect:
-        serializedVersion: 2
-        x: 1020
-        y: 696
-        width: 204.8
-        height: 348
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: riese1_unity_16
-      rect:
-        serializedVersion: 2
-        x: 1224
-        y: 696
-        width: 204.8
-        height: 348
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: riese1_unity_17
-      rect:
-        serializedVersion: 2
-        x: 1428
-        y: 696
-        width: 204.8
-        height: 348
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: riese1_unity_18
-      rect:
-        serializedVersion: 2
-        x: 1632
-        y: 696
-        width: 204.8
-        height: 348
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: riese1_unity_19
-      rect:
-        serializedVersion: 2
-        x: 1836
-        y: 696
-        width: 204.8
-        height: 348
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: riese1_unity_20
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 348
-        width: 204.8
-        height: 348
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: riese1_unity_21
-      rect:
-        serializedVersion: 2
-        x: 204
-        y: 348
-        width: 204.8
-        height: 348
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: riese1_unity_22
-      rect:
-        serializedVersion: 2
-        x: 408
-        y: 348
-        width: 204.8
-        height: 348
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: riese1_unity_23
-      rect:
-        serializedVersion: 2
-        x: 612
-        y: 348
-        width: 204.8
-        height: 348
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: riese1_unity_24
-      rect:
-        serializedVersion: 2
-        x: 816
-        y: 348
-        width: 204.8
-        height: 348
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: riese1_unity_25
-      rect:
-        serializedVersion: 2
-        x: 1020
-        y: 348
-        width: 204.8
-        height: 348
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: riese1_unity_26
-      rect:
-        serializedVersion: 2
-        x: 1224
-        y: 348
-        width: 204.8
-        height: 348
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: riese1_unity_27
-      rect:
-        serializedVersion: 2
-        x: 1428
-        y: 348
-        width: 204.8
-        height: 348
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: riese1_unity_28
-      rect:
-        serializedVersion: 2
-        x: 1632
-        y: 348
-        width: 204.8
-        height: 348
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: riese1_unity_29
-      rect:
-        serializedVersion: 2
-        x: 1836
-        y: 348
-        width: 204.8
-        height: 348
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: riese1_unity_30
+      name: riese1_8
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 204.8
-        height: 348
+        width: 256
+        height: 434
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: riese1_unity_31
+      name: riese1_9
       rect:
         serializedVersion: 2
-        x: 204
+        x: 256
         y: 0
-        width: 204.8
-        height: 348
+        width: 256
+        height: 434
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: riese1_unity_32
+      name: riese1_10
       rect:
         serializedVersion: 2
-        x: 408
+        x: 512
         y: 0
-        width: 204.8
-        height: 348
+        width: 256
+        height: 434
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: riese1_unity_33
+      name: riese1_11
       rect:
         serializedVersion: 2
-        x: 612
+        x: 768
         y: 0
-        width: 204.8
-        height: 348
+        width: 256
+        height: 434
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: riese1_unity_34
+      name: riese1_12
       rect:
         serializedVersion: 2
-        x: 816
+        x: 1024
         y: 0
-        width: 204.8
-        height: 348
+        width: 256
+        height: 434
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: riese1_unity_35
+      name: riese1_13
       rect:
         serializedVersion: 2
-        x: 1020
+        x: 1280
         y: 0
-        width: 204.8
-        height: 348
+        width: 256
+        height: 434
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: riese1_unity_36
+      name: riese1_14
       rect:
         serializedVersion: 2
-        x: 1224
+        x: 1536
         y: 0
-        width: 204.8
-        height: 348
+        width: 256
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: riese1_15
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 256
+        height: 434
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

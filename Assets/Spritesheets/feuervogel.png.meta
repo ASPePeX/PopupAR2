@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 4ce515187b5c235419f13ef09899ec3d
-timeCreated: 1474562489
+timeCreated: 1474799795
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -49,6 +49,30 @@ TextureImporter:
     21300084: feuervogel_unity_42
     21300086: feuervogel_unity_43
     21300088: feuervogel_unity_44
+    21300090: feuervogel_0
+    21300092: feuervogel_1
+    21300094: feuervogel_2
+    21300096: feuervogel_3
+    21300098: feuervogel_4
+    21300100: feuervogel_5
+    21300102: feuervogel_6
+    21300104: feuervogel_7
+    21300106: feuervogel_8
+    21300108: feuervogel_9
+    21300110: feuervogel_10
+    21300112: feuervogel_11
+    21300114: feuervogel_12
+    21300116: feuervogel_13
+    21300118: feuervogel_14
+    21300120: feuervogel_15
+    21300122: feuervogel_16
+    21300124: feuervogel_17
+    21300126: feuervogel_18
+    21300128: feuervogel_19
+    21300130: feuervogel_20
+    21300132: feuervogel_21
+    21300134: feuervogel_22
+    21300136: feuervogel_23
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -98,561 +122,314 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: feuervogel_unity_0
+      name: feuervogel_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 1075.2
-        width: 227.55556
-        height: 268.80005
+        y: 605.3334
+        width: 256
+        height: 302.66666
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: feuervogel_unity_1
+      name: feuervogel_1
       rect:
         serializedVersion: 2
-        x: 227
-        y: 1075.2
-        width: 227.55556
-        height: 268.8
+        x: 256
+        y: 605.3334
+        width: 256
+        height: 302.66666
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: feuervogel_unity_2
+      name: feuervogel_2
       rect:
         serializedVersion: 2
-        x: 454
-        y: 1075.2
-        width: 227.55556
-        height: 268.8
+        x: 512
+        y: 605.3334
+        width: 256
+        height: 302.66666
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: feuervogel_unity_3
+      name: feuervogel_3
       rect:
         serializedVersion: 2
-        x: 681
-        y: 1075.2
-        width: 227.55556
-        height: 268.8
+        x: 768
+        y: 605.3334
+        width: 256
+        height: 302.66666
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: feuervogel_unity_4
+      name: feuervogel_4
       rect:
         serializedVersion: 2
-        x: 908
-        y: 1075.2
-        width: 227.55556
-        height: 268.8
+        x: 1024
+        y: 605.3334
+        width: 256
+        height: 302.66666
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: feuervogel_unity_5
+      name: feuervogel_5
       rect:
         serializedVersion: 2
-        x: 1135
-        y: 1075.2
-        width: 227.55556
-        height: 268.8
+        x: 1280
+        y: 605.3334
+        width: 256
+        height: 302.66666
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: feuervogel_unity_6
+      name: feuervogel_6
       rect:
         serializedVersion: 2
-        x: 1362
-        y: 1075.2
-        width: 227.55556
-        height: 268.8
+        x: 1536
+        y: 605.3334
+        width: 256
+        height: 302.66666
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: feuervogel_unity_7
+      name: feuervogel_7
       rect:
         serializedVersion: 2
-        x: 1589
-        y: 1075.2
-        width: 227.55556
-        height: 268.8
+        x: 1792
+        y: 605.3334
+        width: 256
+        height: 302.66666
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: feuervogel_unity_8
-      rect:
-        serializedVersion: 2
-        x: 1816
-        y: 1075.2
-        width: 227.55556
-        height: 268.8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: feuervogel_unity_9
+      name: feuervogel_8
       rect:
         serializedVersion: 2
         x: 0
-        y: 807.2
-        width: 227.55556
-        height: 268.8
+        y: 303.33334
+        width: 256
+        height: 302.66666
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: feuervogel_unity_10
+      name: feuervogel_9
       rect:
         serializedVersion: 2
-        x: 227
-        y: 807.2
-        width: 227.55556
-        height: 268.8
+        x: 256
+        y: 303.33334
+        width: 256
+        height: 302.66666
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: feuervogel_unity_11
+      name: feuervogel_10
       rect:
         serializedVersion: 2
-        x: 454
-        y: 807.2
-        width: 227.55556
-        height: 268.8
+        x: 512
+        y: 303.33334
+        width: 256
+        height: 302.66666
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: feuervogel_unity_12
+      name: feuervogel_11
       rect:
         serializedVersion: 2
-        x: 681
-        y: 807.2
-        width: 227.55556
-        height: 268.8
+        x: 768
+        y: 303.33334
+        width: 256
+        height: 302.66666
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: feuervogel_unity_13
+      name: feuervogel_12
       rect:
         serializedVersion: 2
-        x: 908
-        y: 807.2
-        width: 227.55556
-        height: 268.8
+        x: 1024
+        y: 303.33334
+        width: 256
+        height: 302.66666
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: feuervogel_unity_14
+      name: feuervogel_13
       rect:
         serializedVersion: 2
-        x: 1135
-        y: 807.2
-        width: 227.55556
-        height: 268.8
+        x: 1280
+        y: 303.33334
+        width: 256
+        height: 302.66666
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: feuervogel_unity_15
+      name: feuervogel_14
       rect:
         serializedVersion: 2
-        x: 1362
-        y: 807.2
-        width: 227.55556
-        height: 268.8
+        x: 1536
+        y: 303.33334
+        width: 256
+        height: 302.66666
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: feuervogel_unity_16
+      name: feuervogel_15
       rect:
         serializedVersion: 2
-        x: 1589
-        y: 807.2
-        width: 227.55556
-        height: 268.8
+        x: 1792
+        y: 303.33334
+        width: 256
+        height: 302.66666
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: feuervogel_unity_17
-      rect:
-        serializedVersion: 2
-        x: 1816
-        y: 807.2
-        width: 227.55556
-        height: 268.8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: feuervogel_unity_18
+      name: feuervogel_16
       rect:
         serializedVersion: 2
         x: 0
-        y: 539.2
-        width: 227.55556
-        height: 268.8
+        y: 1.3333435
+        width: 256
+        height: 302.66666
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: feuervogel_unity_19
+      name: feuervogel_17
       rect:
         serializedVersion: 2
-        x: 227
-        y: 539.2
-        width: 227.55556
-        height: 268.8
+        x: 256
+        y: 1.3333435
+        width: 256
+        height: 302.66666
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: feuervogel_unity_20
+      name: feuervogel_18
       rect:
         serializedVersion: 2
-        x: 454
-        y: 539.2
-        width: 227.55556
-        height: 268.8
+        x: 512
+        y: 1.3333435
+        width: 256
+        height: 302.66666
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: feuervogel_unity_21
+      name: feuervogel_19
       rect:
         serializedVersion: 2
-        x: 681
-        y: 539.2
-        width: 227.55556
-        height: 268.8
+        x: 768
+        y: 1.3333435
+        width: 256
+        height: 302.66666
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: feuervogel_unity_22
+      name: feuervogel_20
       rect:
         serializedVersion: 2
-        x: 908
-        y: 539.2
-        width: 227.55556
-        height: 268.8
+        x: 1024
+        y: 1.3333435
+        width: 256
+        height: 302.66666
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: feuervogel_unity_23
+      name: feuervogel_21
       rect:
         serializedVersion: 2
-        x: 1135
-        y: 539.2
-        width: 227.55556
-        height: 268.8
+        x: 1280
+        y: 1.3333435
+        width: 256
+        height: 302.66666
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: feuervogel_unity_24
+      name: feuervogel_22
       rect:
         serializedVersion: 2
-        x: 1362
-        y: 539.2
-        width: 227.55556
-        height: 268.8
+        x: 1536
+        y: 1.3333435
+        width: 256
+        height: 302.66666
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: feuervogel_unity_25
+      name: feuervogel_23
       rect:
         serializedVersion: 2
-        x: 1589
-        y: 539.2
-        width: 227.55556
-        height: 268.8
+        x: 1792
+        y: 1.3333435
+        width: 256
+        height: 302.66666
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: feuervogel_unity_26
-      rect:
-        serializedVersion: 2
-        x: 1816
-        y: 539.2
-        width: 227.55556
-        height: 268.8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: feuervogel_unity_27
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 271.2
-        width: 227.55556
-        height: 268.8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: feuervogel_unity_28
-      rect:
-        serializedVersion: 2
-        x: 227
-        y: 271.2
-        width: 227.55556
-        height: 268.8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: feuervogel_unity_29
-      rect:
-        serializedVersion: 2
-        x: 454
-        y: 271.2
-        width: 227.55556
-        height: 268.8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: feuervogel_unity_30
-      rect:
-        serializedVersion: 2
-        x: 681
-        y: 271.2
-        width: 227.55556
-        height: 268.8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: feuervogel_unity_31
-      rect:
-        serializedVersion: 2
-        x: 908
-        y: 271.2
-        width: 227.55556
-        height: 268.8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: feuervogel_unity_32
-      rect:
-        serializedVersion: 2
-        x: 1135
-        y: 271.2
-        width: 227.55556
-        height: 268.8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: feuervogel_unity_33
-      rect:
-        serializedVersion: 2
-        x: 1362
-        y: 271.2
-        width: 227.55556
-        height: 268.8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: feuervogel_unity_34
-      rect:
-        serializedVersion: 2
-        x: 1589
-        y: 271.2
-        width: 227.55556
-        height: 268.8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: feuervogel_unity_35
-      rect:
-        serializedVersion: 2
-        x: 1816
-        y: 271.2
-        width: 227.55556
-        height: 268.8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: feuervogel_unity_36
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 3.2000122
-        width: 227.55556
-        height: 268.8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: feuervogel_unity_37
-      rect:
-        serializedVersion: 2
-        x: 227
-        y: 3.2000122
-        width: 227.55556
-        height: 268.8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: feuervogel_unity_38
-      rect:
-        serializedVersion: 2
-        x: 454
-        y: 3.2000122
-        width: 227.55556
-        height: 268.8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: feuervogel_unity_39
-      rect:
-        serializedVersion: 2
-        x: 681
-        y: 3.2000122
-        width: 227.55556
-        height: 268.8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: feuervogel_unity_40
-      rect:
-        serializedVersion: 2
-        x: 908
-        y: 3.2000122
-        width: 227.55556
-        height: 268.8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: feuervogel_unity_41
-      rect:
-        serializedVersion: 2
-        x: 1135
-        y: 3.2000122
-        width: 227.55556
-        height: 268.8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: feuervogel_unity_42
-      rect:
-        serializedVersion: 2
-        x: 1362
-        y: 3.2000122
-        width: 227.55556
-        height: 268.8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
