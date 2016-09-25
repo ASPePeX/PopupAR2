@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: b62477043ccad0e4c9ba0ba6998bcf03
-timeCreated: 1474800204
+timeCreated: 1474806692
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -121,9 +121,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 1020.8
-        width: 512
-        height: 255.2
+        y: 3656
+        width: 1932
+        height: 914
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -133,10 +133,10 @@ TextureImporter:
       name: wal_1
       rect:
         serializedVersion: 2
-        x: 512
-        y: 1020.8
-        width: 512
-        height: 255.2
+        x: 1932
+        y: 3656
+        width: 1932
+        height: 914
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -146,10 +146,10 @@ TextureImporter:
       name: wal_2
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 1020.8
-        width: 512
-        height: 255.2
+        x: 3864
+        y: 3656
+        width: 1932
+        height: 914
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -159,10 +159,10 @@ TextureImporter:
       name: wal_3
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 1020.8
-        width: 512
-        height: 255.2
+        x: 5796
+        y: 3656
+        width: 1932
+        height: 914
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -173,9 +173,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 765.8
-        width: 512
-        height: 255.2
+        y: 2742
+        width: 1932
+        height: 914
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -185,10 +185,10 @@ TextureImporter:
       name: wal_5
       rect:
         serializedVersion: 2
-        x: 512
-        y: 765.8
-        width: 512
-        height: 255.2
+        x: 1932
+        y: 2742
+        width: 1932
+        height: 914
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -198,10 +198,10 @@ TextureImporter:
       name: wal_6
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 765.8
-        width: 512
-        height: 255.2
+        x: 3864
+        y: 2742
+        width: 1932
+        height: 914
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -211,10 +211,10 @@ TextureImporter:
       name: wal_7
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 765.8
-        width: 512
-        height: 255.2
+        x: 5796
+        y: 2742
+        width: 1932
+        height: 914
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -225,9 +225,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 510.8
-        width: 512
-        height: 255.2
+        y: 1828
+        width: 1932
+        height: 914
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -237,10 +237,10 @@ TextureImporter:
       name: wal_9
       rect:
         serializedVersion: 2
-        x: 512
-        y: 510.8
-        width: 512
-        height: 255.2
+        x: 1932
+        y: 1828
+        width: 1932
+        height: 914
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -250,10 +250,10 @@ TextureImporter:
       name: wal_10
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 510.8
-        width: 512
-        height: 255.2
+        x: 3864
+        y: 1828
+        width: 1932
+        height: 914
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -263,10 +263,10 @@ TextureImporter:
       name: wal_11
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 510.8
-        width: 512
-        height: 255.2
+        x: 5796
+        y: 1828
+        width: 1932
+        height: 914
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -277,9 +277,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 255.8
-        width: 512
-        height: 255.2
+        y: 914
+        width: 1932
+        height: 914
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -289,10 +289,10 @@ TextureImporter:
       name: wal_13
       rect:
         serializedVersion: 2
-        x: 512
-        y: 255.8
-        width: 512
-        height: 255.2
+        x: 1932
+        y: 914
+        width: 1932
+        height: 914
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -302,10 +302,10 @@ TextureImporter:
       name: wal_14
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 255.8
-        width: 512
-        height: 255.2
+        x: 3864
+        y: 914
+        width: 1932
+        height: 914
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -315,10 +315,10 @@ TextureImporter:
       name: wal_15
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 255.8
-        width: 512
-        height: 255.2
+        x: 5796
+        y: 914
+        width: 1932
+        height: 914
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -329,9 +329,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 0.80000305
-        width: 512
-        height: 255.2
+        y: 0
+        width: 1932
+        height: 914
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -341,10 +341,10 @@ TextureImporter:
       name: wal_17
       rect:
         serializedVersion: 2
-        x: 512
-        y: 0.80000305
-        width: 512
-        height: 255.2
+        x: 1932
+        y: 0
+        width: 1932
+        height: 914
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -354,10 +354,10 @@ TextureImporter:
       name: wal_18
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 0.80000305
-        width: 512
-        height: 255.2
+        x: 3864
+        y: 0
+        width: 1932
+        height: 914
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -367,10 +367,10 @@ TextureImporter:
       name: wal_19
       rect:
         serializedVersion: 2
-        x: 1536
-        y: 0.80000305
-        width: 512
-        height: 255.2
+        x: 5796
+        y: 0
+        width: 1932
+        height: 914
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
